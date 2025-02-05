@@ -2,7 +2,7 @@ package com.example.futbolcanchas.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
-
+//Setting Cancha Model
 @Data
 @Entity
 @Table(name = "canchas")

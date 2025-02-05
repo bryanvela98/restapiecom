@@ -6,7 +6,7 @@ import lombok.EqualsAndHashCode;
 import lombok.ToString;
 
 import java.util.List;
-
+//Setting Distrito Model
 @Data
 @Entity
 @Table(name = "distritos")
